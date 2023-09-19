@@ -1,0 +1,16 @@
+.servicecontainer{
+   
+    margin: 0% 10%;
+
+}
+.Img img{
+
+    height: 150px;
+}
+.price{
+    justify-content: space-around;
+    display: flex;
+}
+.Img{
+    width: 20%;
+}

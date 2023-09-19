@@ -1,0 +1,33 @@
+
+.maincontainers{
+    margin: 0% 20%;
+}
+.containerimg{
+    text-align: center;
+}
+.containerimg img{
+    height: 500px;
+    width: 450px;
+}
+.containerimg1 img{
+    height: 320px;
+    width: 260px;
+}
+.tech{
+    display: flex;
+    align-items: center;
+}
+.paragragh{
+    margin-left: 6%;
+}
+.techs{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 65px;
+
+}
+h1,h2{
+    text-align: center;
+   
+}
